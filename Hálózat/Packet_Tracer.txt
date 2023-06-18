@@ -1,0 +1,37 @@
+1.)
+Garázs /26
+H  192.168.100.192
+K  192.168.100.193
+V  192.168.100.254
+Sz 192.168.100.255
+
+Raktár /28
+H  192.168.101.16
+K  192.168.101.17
+V  192.168.101.30
+Sz 192.168.101.31
+
+2.)
+Laptop: PT-LAPTOP-NM-1W-AC
+Router: HWIC-2T
+
+3.)
+Topológia
+Keresztkötés  - Egyforma eszközök
+Router-router - Piros villám kábel (DCE, DTE)
+Sima - Mindenhova
+
+4.)
+Router(config)# ip route 0.0.0.0 0.0.0.0 <next-hop-IP-address>
+Router(config)# hostname <név> 
+
+10.)
+Router1(config)#ip route 192.168.16.0 255.255.255.0 192.168.15.1
+
+11.)
+Router(config)# ip domain name szalon.eu
+Router(config)# line vty 0
+Router(config)# transport input ssh
+
+12.)
+Router(config)# copy running-config tftp <place name>
