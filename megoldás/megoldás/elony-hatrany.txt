@@ -1,0 +1,22 @@
+TN Panel előnyök és hátrányok:
++ magas képfrissítés, akár 240 HZ
++ alacsony válaszidő
++ legolcsóbb technológia
+- korlátozott látószög
+- mérsékelt kontraszt
+- kevésbé színhű
+
+IPS előnyök és hátrányok:
++ rendkívül magas látószög
++ magas színhűség
++ magas képfrissítés érhető el, akár 165 Hz
+- magasabb válaszidő
+- energiahatékonyság
+- magas ár
+
+VA panel előnyök és hátrányok:
++ jó látószög
++ kiemelkedő kontraszt
++ képfrissítés akár 200 Hz is lehet
+- drágább, mint a TN panel
+- reakcióidő

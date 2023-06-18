@@ -1,0 +1,190 @@
+body {
+  background-image: url(../img/body-bg.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+header {
+  padding: 15px;
+}
+
+#title {
+  padding-top: 10px;
+  width: 100%;
+  background-position: center;
+  background-size:cover;
+  background-repeat: no-repeat;
+  height: 270px;
+  background-image: url(../img/monitor-bg.jpg);
+}
+
+#lcdtitle {
+  padding-top: 10px;
+  background-image: url(../img/lcd-bg.jpg);
+  width: 100%;
+  background-position:center;
+  background-size:100%;
+  background-repeat: no-repeat;
+  height: 150px;
+  align-items: center;
+}
+.highlight1 {
+  font-weight: bold;
+}
+
+nav li {
+  list-style: none;
+}
+
+.navbar {
+  background-color: #900202;
+}
+
+.navbar-black {
+  background-color: black;
+}
+
+.nav-item-black {
+  display: block;
+  height: 100%;
+  width: 100%;
+  margin: auto;
+  background-color: black;
+}
+
+.nav-item-black a{
+  color: white;
+  text-align: center;
+  font-weight: bold;
+  font-size: large;
+}
+
+.nav-item-black a:hover {
+  color: black;
+  background-color: rgb(200, 200, 200);
+}
+
+.nav-item a {
+  font-weight: bold;
+  color: white;
+}
+
+.menucenter {
+  margin: auto;
+}
+
+.menufull {
+  width: 100%;
+}
+
+h1, #lcdh1 {
+  background-color: rgba(255, 255, 255, 0.2);
+  margin-top: 10px;
+  font-variant: small-caps;
+}
+
+#lcdh1 {
+  color: white;
+  text-shadow: 1px 1px 0 black;
+}
+
+h1 {
+  color: #900202;
+  text-shadow: 1px 1px 0 white;
+}
+
+h2 {
+  margin-top: 10px;
+  padding: 5px;
+  background-color: #900202;
+  color: white;
+}
+
+h3 {
+  font-weight: bold;
+  font-size: 20px;
+  color: #900202;
+  border-bottom: 1px dotted #900202;
+}
+
+p {
+  text-align: justify;
+}
+
+.text-bold {
+  font-weight: bold;
+}
+
+.center {
+  display: block;
+}
+
+footer {
+  background-color: #900202;
+}
+
+footer p {
+  text-align: center;
+  font-size: 12pt;
+  padding: 10px;
+}
+
+footer a, a:hover {
+  color: white;
+  text-decoration: none;
+}
+
+.imgresponsive {
+  width: 100%;
+}
+
+.dotted-left {
+  border-left: 3px dotted #900202;
+}
+
+.dotted-right {
+  border-right: 3px dotted #900202;
+}
+
+.dotted-top {
+  border-top: 3px dotted #900202;
+}
+
+.row-margin {
+  margin: 20px 0;
+}
+
+.row-pad30 {
+  padding: 0 30px;
+}
+
+.list-green {
+  color: green;
+}
+
+.list-red {
+  color: red;
+}
+
+h4 {
+  font-size: 15pt;
+  color: white;
+  text-align: center;
+  border-left: 2px dashed #900202;
+  border-right: 2px dashed #900202;
+  margin-top: 20px;
+  background-color: rgba(145, 0, 0, 0.5);
+  padding: 5px;
+}
+
+.nav-item a:hover {
+  color: #900202;
+  background-color: white;
+}
+
+.list-none {
+  list-style-type: none;
+  text-indent: -20pt;
+  font-weight: bold;
+}
